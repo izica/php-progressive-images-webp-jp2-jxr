@@ -1,4 +1,4 @@
-## Desription
+## Description
 Library converts your images to progressive images formats
 
 * Webp
