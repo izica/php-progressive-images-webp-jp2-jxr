@@ -1,5 +1,5 @@
 {
-    "name": "izica/php-progressive-images",
+    "name": "izica/php-progressive-images-webp-jp2-jxr",
     "description": "Php library for converting and caching images to Webp .webp, JpegXr .jxr, Jpeg 2000 .jp2",
     "authors": [
         {
