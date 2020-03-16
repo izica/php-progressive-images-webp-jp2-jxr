@@ -18,7 +18,7 @@ libjxr-tools
 ## Installation
 ```
 sudo apt-get install imagemagick webp libjxr-tools
-composer require izica/php-progressive-images
+composer require izica/php-progressive-images-webp-jp2-jxr
 ```
 
 ## Usage(Examples)
