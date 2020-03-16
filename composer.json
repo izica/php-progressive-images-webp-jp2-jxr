@@ -7,7 +7,7 @@
             "email": "artemiztomska@gmail.com"
         }
     ],
-    "keywords": ["php", "imagick", "imagemagick", "webp", "jpeg2000", "jpegxr", "progressive", "tools", "utilities", "images"],
+    "keywords": ["php", "imagick", "imagemagick", "webp", "jpeg2000", "jpegxr", "progressive", "tools", "utilities", "images", "jxr", "jp2", "image"],
     "license": "MIT",
     "require": {
         "php": ">=5.6.0"
