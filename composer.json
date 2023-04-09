@@ -1,12 +1,6 @@
 {
     "name": "izica/php-progressive-images-webp-jp2-jxr",
     "description": "Php library for converting and caching images to Webp .webp, JpegXr .jxr, Jpeg 2000 .jp2",
-    "authors": [
-        {
-            "name": "Golovarchuk Artyom",
-            "email": "artemiztomska@gmail.com"
-        }
-    ],
     "keywords": ["php", "imagick", "imagemagick", "webp", "jpeg2000", "jpegxr", "progressive", "tools", "utilities", "images", "jxr", "jp2", "image"],
     "license": "MIT",
     "require": {
